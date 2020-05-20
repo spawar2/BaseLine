@@ -1,0 +1,10 @@
+name: baseline_deployment
+title:
+username:
+account: yalegenomics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2040524
+bundleId: 2957221
+url: https://yalegenomics.shinyapps.io/baseline_deployment/
+when: 1585801294.64812
